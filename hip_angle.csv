@@ -1,0 +1,7 @@
+measurement;initial_contact;end_double_support;mid_stance;start_double_support;toe_off;mid_swing
+hip_trial_1;20,30;13,10;2,10;-10,70;-0,90;22,30
+hip_trial_2;19,60;13,30;2,90;-10,10;-1,60;22,70
+hip_trial_3;20,50;13,70;2,60;-9,80;-1,20;22,20
+average;20,13;13,37;2,53;-10,20;-1,23;22,40
+variance;0,22;0,09;0,16;0,21;0,12;0,07
+standart_deviation;0,47;0,31;0,40;0,46;0,35;0,26

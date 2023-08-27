@@ -1,0 +1,7 @@
+measurement;initial_contact;end_double_support;mid_stance;start_double_support;toe_off;mid_swing
+ankle_trial_1;6,60;-7,20;-1,80;-4,20;-29,10;-0,40
+ankle_trial_2;6,80;-6,60;-2,00;-4,20;-29,90;-0,30
+ankle_trial_3;6,90;-6,70;-1,20;-4,80;-30,30;-0,60
+average;6,77;-6,83;-1,67;-4,40;-29,77;-0,43
+variance;0,02;0,10;0,17;0,12;0,37;0,02
+standart_deviation;0,15;0,32;0,42;0,35;0,61;0,15

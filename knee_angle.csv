@@ -1,0 +1,7 @@
+measurement;initial_contact;end_double_support;mid_stance;start_double_support;toe_off;mid_swing
+knee_trial_1;8,20;-12,00;10,50;16,00;48,70;56,90
+knee_trial_2;7,60;-13,50;10,40;15,90;50,40;57,70
+knee_trial_3;8,00;-13,00;9,70;15,80;50,30;57,20
+average;7,93;-12,83;10,20;15,90;49,80;57,27
+variance;0,09;0,58;0,19;0,01;0,91;0,16
+standart_deviation;0,31;0,76;0,44;0,10;0,95;0,40
